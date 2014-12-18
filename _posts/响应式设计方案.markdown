@@ -8,7 +8,7 @@
 
 分辨率划分
 -----------------
-![](http://d.pcs.baidu.com/thumbnail/7ef2ce4d5adc9a98d9ecbb54ee49b17e?fid=774302184-250528-189015127821770&time=1418900400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-3oWUVSakUgcJm%2B%2BofWNgb8ZvaHg%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
+![](http://d.pcs.baidu.com/thumbnail/c4c51b65ca6afa04900f77a694dc276e?fid=774302184-250528-593861192401403&time=1418900400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-afkjgbkhWl%2F1k3lW5yJcxx6Syvo%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
 + <=1280
  + 页面宽度：1000px
  + 包含的主要分辨率：1024*768、1280*800、1280*1024
