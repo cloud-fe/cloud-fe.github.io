@@ -27,28 +27,35 @@
 
 Javascript方案
 -----------------
- >   dev.responsive.screenConfig = {
- >        "global-media-1280" : "1280",
- >        "global-media-1440" : "1440",
- >        "global-media-1680" : "1680",
- >        "global-media-1920" : "1920",
- >        "global-media-2560" : "2560"
- >    };
+<pre>
+ <code>
+   dev.responsive.screenConfig = {
+        "global-media-1280" : "1280",
+        "global-media-1440" : "1440",
+        "global-media-1680" : "1680",
+        "global-media-1920" : "1920",
+        "global-media-2560" : "2560"
+    };
+ </code>
+</pre>
+ 
 
 通用UI组件
 -----------------
 > 根据屏幕高度分为：<=900、<=1080、<=1600、>1600
 > 默认pageSize设为25
 > 定义一个pageconfig如下：
-> var PAGECONFIG = {
->          "900" : 10,
->         "1080" : 15,
->         "1600" : 20
->     };
 
+<pre>
+ <code>
+    var PAGECONFIG = {
+          "900" : 10,
+         "1080" : 15,
+         "1600" : 20
+    };
+ </code>
+</pre>
 业务相关可以在使用pager的页面重新指定pageSize，反之根据配置设置的pageSize。
-
-
 
 CSS编写规范
 -----------------
