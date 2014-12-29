@@ -2,7 +2,7 @@
 layout: post
 title:  "响应式设计方案"
 date:   2014-12-29 13:12:00
-categories: jekyll update
+categories: css
 ---
 
 响应式设计方案
