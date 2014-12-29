@@ -8,7 +8,7 @@
 
 分辨率划分
 -----------------
-![](http://d.pcs.baidu.com/thumbnail/c4c51b65ca6afa04900f77a694dc276e?fid=774302184-250528-593861192401403&time=1418900400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-afkjgbkhWl%2F1k3lW5yJcxx6Syvo%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
+![](http://d.pcs.baidu.com/thumbnail/7ef2ce4d5adc9a98d9ecbb54ee49b17e?fid=774302184-250528-189015127821770&time=1419829200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-kWmIb%2FuVPwks9HLto44sDOq%2FqMg%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
 + <=1280
  + 页面宽度：1000px
  + 包含的主要分辨率：1024x768、1280x800、1280x1024
@@ -39,7 +39,7 @@ Javascript方案
  </code>
 </pre>
  
-![](http://d.pcs.baidu.com/thumbnail/3bb643bb649c40593b6b26178e8422b7?fid=774302184-250528-421403417141004&time=1418900400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-K%2BERrDISAoHukzg6MzPqDAai77Y%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
+![](http://d.pcs.baidu.com/thumbnail/3bb643bb649c40593b6b26178e8422b7?fid=774302184-250528-421403417141004&time=1419829200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-7FN%2F2RDaAesRheIThvJM5kxaE0I%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
 
 通用UI组件
 -----------------
@@ -69,8 +69,8 @@ CSS编写规范
 * pager. less:分页样式
 * footer.less:页脚样式
 * responsive.less:定义各个区间下页面宽度及内容区宽度等通用样式
-![](http://d.pcs.baidu.com/thumbnail/d49e2cf98d2762377fed23f730ff10e4?fid=774302184-250528-289959640975567&time=1418900400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2FRYZ3DxYqG%2BCO%2BohxIQ%2BARbWaLA%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
+![](http://d.pcs.baidu.com/thumbnail/d49e2cf98d2762377fed23f730ff10e4?fid=774302184-250528-289959640975567&time=1419829200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-v15JhwtthAjWkGkiOmcqFhLtJ8k%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
 
 grunt自动化编译
 -----------------
-![](http://d.pcs.baidu.com/thumbnail/7d5e32cb7b36a8bc44440c351712bab1?fid=774302184-250528-1028679028203381&time=1418900400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-uGHW0wCK1qK1NZDnOewUFN6UQXY%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
+![](http://d.pcs.baidu.com/thumbnail/7d5e32cb7b36a8bc44440c351712bab1?fid=774302184-250528-1028679028203381&time=1419829200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-RdMMHahBf25aMLBDMrGSNVeX02I%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100 "")
